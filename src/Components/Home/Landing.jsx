@@ -29,7 +29,7 @@ const Landing = () => {
 
                     <div>
 
-                        <img src="/public/Images/Component3.png" alt="" className=" lg:w-[305px] md:w-[345px] sm:w-[250px] w-[250px] lg:h-[300px] md:h-[280px] sm:h-[200px] h-[200px]" />
+                        <img src="https://i.ibb.co/Kryxk52/Component3.png" alt="" className=" lg:w-[305px] md:w-[345px] sm:w-[250px] w-[250px] lg:h-[300px] md:h-[280px] sm:h-[200px] h-[200px]" />
 
                     </div>
                 </div>
