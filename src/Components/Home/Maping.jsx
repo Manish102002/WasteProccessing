@@ -5,9 +5,9 @@ const Maping = () => {
     <>
       <div className=" my-20">
         <div className="flex  justify-center items-center flex-wrap gap-9">
-          <img src="/public/Images/BANG.in.png" alt="" className=" lg:w-[213px] w-[103px] lg:h-[63px] h-[43px]" />
-          <img src="/public/Images/logo2.png" alt="" className=" lg:w-[368px] w-[168px]  lg:h-[107px] h-[77px]" />
-          <img src="/public/Images/logo1.png" alt="" className="  lg:w-[158px] w-[78px] lg:h-[62px] h-[42px] " />
+          <img src="https://i.ibb.co/gmvbLxL/BANG-in.png" alt="" className=" lg:w-[213px] w-[103px] lg:h-[63px] h-[43px]" />
+          <img src="https://i.ibb.co/6PH7mgR/logo2.png" alt="" className=" lg:w-[368px] w-[168px]  lg:h-[107px] h-[77px]" />
+          <img src="https://i.ibb.co/D57jnfY/logo1.png" alt="" className="  lg:w-[158px] w-[78px] lg:h-[62px] h-[42px] " />
         </div>
 
         <div className=" flex justify-center items-end gap-16 mx-5  flex-wrap ">
