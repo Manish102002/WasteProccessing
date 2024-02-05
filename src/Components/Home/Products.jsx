@@ -13,7 +13,7 @@ const Products = () => {
 
                     <div className=" w-[313px] h-[432px]">
 
-                        <img src="/public/Images/product1.png" alt="" className=" w-[333px] h-[313px]" />
+                        <img src="https://i.ibb.co/88vYw4p/product1.png" alt="" className=" w-[333px] h-[313px]" />
 
                         <div className=" bg-lightBlue h-[99px] w-[313px] border rounded-b-lg  text-white">
                             <h2 className=" text-h5 font-semibold pt-3 pl-4">Magokits Pack</h2>
@@ -23,7 +23,7 @@ const Products = () => {
 
                     <div className=" w-[313px] h-[432px]">
 
-                        <img src="/public/Images/product2.png" alt="" className=" w-[333px] h-[313px]" />
+                        <img src="https://i.ibb.co/v1zDVh9/product2.png" alt="" className=" w-[333px] h-[313px]" />
 
                         <div className=" bg-lightBlue h-[99px] w-[313px] border rounded-b-lg  text-white">
                             <h2 className=" text-h5 font-semibold pt-3 pl-4">Composing Tools</h2>
@@ -33,7 +33,7 @@ const Products = () => {
 
                     <div className=" w-[313px] h-[432px]">
 
-                        <img src="/public/Images/product3.png" alt="" className=" w-[333px] h-[313px]" />
+                        <img src="https://i.ibb.co/vvgtp66/product3.png" alt="" className=" w-[333px] h-[313px]" />
 
                         <div className=" bg-lightBlue h-[99px] w-[313px] border rounded-b-lg  text-white">
                             <h2 className=" text-h5 font-semibold pt-3 pl-4">Composter Full Pack</h2>
@@ -43,7 +43,7 @@ const Products = () => {
 
                     <div className=" w-[313px] h-[432px]">
 
-                        <img src="/public/Images/product4.png" alt="" className=" w-[333px] h-[313px]" />
+                        <img src="https://i.ibb.co/D1YfCwq/product4.png" alt="" className=" w-[333px] h-[313px]" />
 
                         <div className=" bg-lightBlue h-[99px] w-[313px] border rounded-b-lg  text-white">
                             <h2 className=" text-h5 font-semibold pt-3 pl-4">Waste Sorters</h2>
@@ -53,7 +53,7 @@ const Products = () => {
 
                     <div className=" w-[313px] h-[432px]">
 
-                        <img src="/public/Images/product5.png" alt="" className=" w-[333px] h-[313px]" />
+                        <img src="https://i.ibb.co/9YsnScB/product5.png" alt="" className=" w-[333px] h-[313px]" />
 
                         <div className=" bg-lightBlue h-[99px] w-[313px] border rounded-b-lg  text-white">
                             <h2 className=" text-h5 font-semibold pt-3 pl-4">Biogas Stove</h2>
@@ -63,7 +63,7 @@ const Products = () => {
 
                     <div className=" w-[313px] h-[432px]">
 
-                        <img src="/public/Images/product6.png" alt="" className=" w-[333px] h-[313px]" />
+                        <img src="https://i.ibb.co/zH9mV9S/product6.png" alt="" className=" w-[333px] h-[313px]" />
 
                         <div className=" bg-lightBlue h-[99px] w-[313px] border rounded-b-lg  text-white">
                             <h2 className=" text-h5 font-semibold pt-3 pl-4">Waste Bin 2in1</h2>
