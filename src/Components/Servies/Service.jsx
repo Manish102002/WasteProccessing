@@ -18,27 +18,27 @@ const Service = () => {
         <div className=" flex flex-wrap gap-4 items-center justify-center">
 
           <div className=" h-[250px] w-[176px]">
-            <img src="/public/Images/frame1.png" alt="" />
+            <img src="https://i.ibb.co/s995s8c/frame1.png" alt="" />
             <h6 className=" text-h6 text-center font-semibold mt-5">Waste Segregation by Clients</h6>
           </div>
 
           <div className=" h-[250px] w-[176px]">
-            <img src="/public/Images/frame2.png" alt="" />
+            <img src="https://i.ibb.co/NT7Hskr/frame2.png" alt="" />
             <h6 className=" text-h6 text-center font-semibold mt-5">Waste Segregation by Clients</h6>
           </div>
 
           <div className=" h-[250px] w-[176px]">
-            <img src="/public/Images/frame3.png" alt="" />
+            <img src="https://i.ibb.co/FDRC5T8/frame3.png" alt="" />
             <h6 className=" text-h6 text-center font-semibold mt-5">Waste Segregation by Clients</h6>
           </div>
 
           <div className=" h-[250px] w-[176px]">
-            <img src="/public/Images/frame4.png" alt="" />
+            <img src="https://i.ibb.co/CmRDXwg/frame4.png" alt="" />
             <h6 className=" text-h6 text-center font-semibold mt-5">Waste Segregation by Clients</h6>
           </div>
 
           <div className=" h-[250px] w-[176px]">
-            <img src="/public/Images/frame5.png" alt="" />
+            <img src="https://i.ibb.co/NjqhG2F/frame5.png" alt="" />
             <h6 className=" text-h6 text-center font-semibold mt-5">Waste Segregation by Clients</h6>
           </div>
 
@@ -61,7 +61,7 @@ const Service = () => {
 
           <div className=" w-[309px] h-[371px] border  rounded-lg py-5 justify-center gap-3 flex flex-col items-center shadow-lg ">
             <div className=" w-[160px] h-[160px] bg-lightBlue rounded-[50%] flex justify-center items-center">
-              <img src="/public/Images/sell1.png" alt="" className="" />
+              <img src="https://i.ibb.co/dtV79jH/sell1.png" alt="" className="" />
             </div>
             <h2 className=" w-[200px] text-center font-bold text-h5 ">Plastic PETE /PET
               Bottle</h2>
@@ -70,7 +70,7 @@ const Service = () => {
 
           <div className=" w-[309px] h-[371px] border  rounded-lg py-5 justify-center gap-3 flex flex-col items-center shadow-lg ">
             <div className=" w-[160px] h-[160px] bg-lightBlue rounded-[50%] flex justify-center items-center">
-              <img src="/public/Images/sell2.png" alt="" className="" />
+              <img src="https://i.ibb.co/HT8BZFm/sell2.png" alt="" className="" />
             </div>
             <h2 className=" w-[200px] text-center  font-bold text-h5 ">Glass Bottle</h2>
             <p className=" w-[181px] text-center mt-9 text-h6">Sell Now</p>
@@ -78,7 +78,7 @@ const Service = () => {
 
           <div className=" w-[309px] h-[371px] border  rounded-lg py-5 justify-center gap-3 flex flex-col items-center shadow-lg ">
             <div className=" w-[160px] h-[160px] bg-lightBlue rounded-[50%] flex justify-center items-center">
-              <img src="/public/Images/sell3.png" alt="" className="" />
+              <img src="https://i.ibb.co/6r2Fw4K/sell3.png" alt="" className="" />
             </div>
             <h2 className=" w-[200px] text-center font-bold text-h5 ">Polypropylene Plastic</h2>
             <p className=" w-[181px] text-center mt-5 text-h6">Sell Now</p>
@@ -86,7 +86,7 @@ const Service = () => {
 
           <div className=" w-[309px] h-[371px] border  rounded-lg py-5 justify-center gap-3 flex flex-col items-center shadow-lg ">
             <div className=" w-[160px] h-[160px] bg-lightBlue rounded-[50%] flex justify-center items-center">
-              <img src="/public/Images/sell4.png" alt="" className=" " />
+              <img src="https://i.ibb.co/PhB8CmC/sell4.png" alt="" className=" " />
             </div>
             <h2 className=" w-[200px] text-center font-bold text-h5 ">Plastic Bag</h2>
             <p className=" w-[181px] text-center mt-8 text-h6">Sell Now</p>
@@ -94,7 +94,7 @@ const Service = () => {
 
           <div className=" w-[309px] h-[371px] border  rounded-lg py-5 justify-center gap-3 flex flex-col items-center shadow-lg ">
             <div className=" w-[160px] h-[160px] bg-lightBlue rounded-[50%] flex justify-center items-center">
-              <img src="/public/Images/sell5.png" alt="" className="" />
+              <img src="https://i.ibb.co/4fTBm4k/sell5.png" alt="" className="" />
             </div>
             <h2 className=" w-[200px] text-center font-bold text-h5 ">Plastic PETE /PET
               Bottle</h2>
@@ -103,7 +103,7 @@ const Service = () => {
 
           <div className=" w-[309px] h-[371px] border  rounded-lg py-5 justify-center gap-3 flex flex-col items-center shadow-lg ">
             <div className=" w-[160px] h-[160px] bg-lightBlue rounded-[50%] flex justify-center items-center">
-              <img src="/public/Images/sell6.png" alt="" className="" />
+              <img src="https://i.ibb.co/tQZS9RJ/sell6.png" alt="" className="" />
             </div>
             <h2 className=" w-[200px] text-center font-bold text-h5 ">Plastic PETE /PET
               Bottle</h2>
