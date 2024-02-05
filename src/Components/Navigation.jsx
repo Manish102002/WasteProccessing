@@ -10,7 +10,7 @@ const Navigation = () => {
 
                     <div className=" flex items-center">
 
-                        <img src="/public/Images/BANG.in.png" alt="" className=" lg:w-[171px] md:w-[171px]  sm:w-[90px] w-[70px] lg:h-[31px] md:h-[31px]" />
+                        <img src="https://i.ibb.co/gmvbLxL/BANG-in.png" alt="" className=" lg:w-[171px] md:w-[171px]  sm:w-[90px] w-[70px] lg:h-[31px] md:h-[31px]" />
 
                     </div>
 
