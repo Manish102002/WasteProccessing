@@ -16,7 +16,7 @@ const About = () => {
 
           <div>
 
-            <img src="/public/Images/about1.png" alt="" className=" lg:w-[255px] md:w-[245px] sm:w-[150px] w-[150px] lg:h-[360px] md:h-[280px] sm:h-[200px] h-[200px]" />
+            <img src="https://i.ibb.co/hLQJW46/about1.png" alt="" className=" lg:w-[255px] md:w-[245px] sm:w-[150px] w-[150px] lg:h-[360px] md:h-[280px] sm:h-[200px] h-[200px]" />
 
           </div>
 
@@ -68,7 +68,7 @@ const About = () => {
 
           <div>
 
-            <img src="/public/Images/about2.png" alt="" className=" lg:w-[255px] md:w-[245px] sm:w-[150px] w-[150px] lg:h-[360px] md:h-[280px] sm:h-[200px] h-[200px]" />
+            <img src="https://i.ibb.co/x8hCq1d/about2.png" alt="" className=" lg:w-[255px] md:w-[245px] sm:w-[150px] w-[150px] lg:h-[360px] md:h-[280px] sm:h-[200px] h-[200px]" />
 
           </div>
 
